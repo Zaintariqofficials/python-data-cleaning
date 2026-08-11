@@ -1,0 +1,60 @@
+[
+    {
+        "name": "Alice",
+        "rating": "5",
+        "feedback": "Great product!",
+        "age": "25"
+    },
+    {
+        "name": "Bob",
+        "rating": "four",
+        "feedback": "Good but late delivery",
+        "age": "30"
+    },
+    {
+        "name": "Charlie",
+        "rating": "2",
+        "feedback": "BAD EXPERIENCE",
+        "age": "22"
+    },
+    {
+        "name": "Diana",
+        "rating": "five",
+        "feedback": "Loved it!",
+        "age": "28"
+    },
+    {
+        "name": "Eve",
+        "rating": "3.5",
+        "feedback": "Average - could be better"
+    },
+    {
+        "name": "Frank",
+        "rating": "three",
+        "feedback": "Not bad",
+        "age": "19"
+    },
+    {
+        "name": "Grace",
+        "rating": "4",
+        "feedback": "Very good product",
+        "age": "27"
+    },
+    {
+        "name": "Henry",
+        "rating": "two",
+        "feedback": "Could be improved"
+    },
+    {
+        "name": "Ivy",
+        "rating": "5",
+        "feedback": "Excellent!",
+        "age": "24"
+    },
+    {
+        "name": "Jack",
+        "rating": "four",
+        "feedback": "Good experience",
+        "age": "21"
+    }
+]
